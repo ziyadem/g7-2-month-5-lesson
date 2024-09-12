@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+.div_one{
+    width: 300px;
+    height: 200px;
+    background-color: purple;
+    margin: 50px;
+    border: 3px solid black;
+    padding: 20px;
+}
+.div_two{
+    max-width: 300px;
+    height: 200px;
+    background-color: aqua;
+    margin: 50px;
+}
+.div_three{
+    min-width: 300px;
+    height: 200px;
+    background-color: coral;
+}
